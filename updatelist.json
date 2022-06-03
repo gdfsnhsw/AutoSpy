@@ -18,7 +18,7 @@
         },
         {
             "Name": "\u8d44\u4ea7\u67e5\u8be2",
-            "Version": 1654220593,
+            "Version": 1654238800,
             "Note": "\u3010\u67e5\u8d44\u4ea7\u3011\n  \u6307\u4ee4[\u8d44\u4ea7]\n  \u67e5\u8be2\u7b2cN\u4e2a\u6709\u6548CK\u7684\u8d44\u4ea7\uff1a<\u8d44\u4ea7 n> <\u8d44\u4ea7 n-m>\n\n\u67e5\u4eca\u65e5\u8c46\u5b50\u8be6\u60c5\uff1a\n  <\u8c46 n>  <\u8c46 n-m>",
             "Url": "https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/plugins/arm/bean.cpython-36m-aarch64-linux-gnu.so|https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/plugins/x86/bean.cpython-38-x86_64-linux-gnu.so|https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/plugins/x86_tx/bean.cpython-36m-x86_64-linux-gnu.so",
             "Path": "./plugins/arm|./plugins/x86|./plugins/x86_tx"
