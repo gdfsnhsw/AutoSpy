@@ -2,7 +2,7 @@
     "spy": [
         {
             "Name": "SPY",
-            "Version": 1654183020,
+            "Version": 1654262412,
             "Note": "spy\u4e3b\u7a0b\u5e8f",
             "Url": "https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/auto_spy.so_aarch64|https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/auto_spy.so_x86_64|https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/auto_spy.so_x86_64_2",
             "Path": ".|.|."
@@ -11,7 +11,7 @@
     "plugins": [
         {
             "Name": "\u4eac\u4e1c\u89e3\u6790",
-            "Version": 1653925171,
+            "Version": 1654262412,
             "Note": "\u6307\u4ee4[jx]\n\u89e3\u6790\u4eac\u4e1c\u53e3\u4ee4\u548cUrl\uff0c\u56de\u590d\u5f85\u89e3\u6790\u5185\u5bb9\u5373\u53ef\uff0c\u89e3\u6790\u8bf7\u53ea\u88c5\u4e00\u4e2a",
             "Url": "https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/plugins/jiexi.py",
             "Path": "./plugins"
@@ -39,7 +39,7 @@
         },
         {
             "Name": "618\u81a8\u80c0",
-            "Version": 1653953930,
+            "Version": 1654261850,
             "Note": "\u6b64\u529f\u80fd\u4ec5\u9650\u8d85\u7ea7\u6388\u6743\u4f7f\u7528\uff0c<PZ n \u53e3\u4ee4> <PZ stop>",
             "Url": "https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/plugins/arm/pz.cpython-36m-aarch64-linux-gnu.so|https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/plugins/x86/pz.cpython-38-x86_64-linux-gnu.so|https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/plugins/x86_tx/pz.cpython-36m-x86_64-linux-gnu.so",
             "Path": "./plugins/arm|./plugins/x86|./plugins/x86_tx"
@@ -53,7 +53,7 @@
         },
         {
             "Name": "\u4eac\u4e1c\u53e3\u4ee4\u89e3\u6790",
-            "Version": 1654260532,
+            "Version": 1654263406,
             "Note": "windfgg\u7684\u89e3\u6790\u63a5\u53e3: <jx>\n\u89e3\u6790\u8bf7\u53ea\u88c5\u4e00\u4e2a",
             "Url": "https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/plugins/arm/jdComand.cpython-36m-aarch64-linux-gnu.so|https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/plugins/x86/jdComand.cpython-38-x86_64-linux-gnu.so|https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/plugins/x86_tx/jdComand.cpython-36m-x86_64-linux-gnu.so",
             "Path": "./plugins/arm|./plugins/x86|./plugins/x86_tx"
