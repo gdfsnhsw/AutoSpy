@@ -53,7 +53,7 @@
         },
         {
             "Name": "\u4eac\u4e1c\u53e3\u4ee4\u89e3\u6790",
-            "Version": 1653924384,
+            "Version": 1654260532,
             "Note": "windfgg\u7684\u89e3\u6790\u63a5\u53e3: <jx>\n\u89e3\u6790\u8bf7\u53ea\u88c5\u4e00\u4e2a",
             "Url": "https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/plugins/arm/jdComand.cpython-36m-aarch64-linux-gnu.so|https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/plugins/x86/jdComand.cpython-38-x86_64-linux-gnu.so|https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/plugins/x86_tx/jdComand.cpython-36m-x86_64-linux-gnu.so",
             "Path": "./plugins/arm|./plugins/x86|./plugins/x86_tx"
