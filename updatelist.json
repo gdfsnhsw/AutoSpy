@@ -2,7 +2,7 @@
     "spy": [
         {
             "Name": "SPY",
-            "Version": 1654262412,
+            "Version": 1654663472,
             "Note": "spy\u4e3b\u7a0b\u5e8f",
             "Url": "https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/auto_spy.so_aarch64|https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/auto_spy.so_x86_64|https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/auto_spy.so_x86_64_2",
             "Path": ".|.|."
