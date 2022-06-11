@@ -20,7 +20,7 @@
 
 1.  准备好docker环境；
 
-2.  进入终端，在你想要存储SPY信息的文件夹下运行一键安装；
+2.  进入终端，在你想要存储SPY信息的文件夹下运行一键安装，仅需打开一次，然后执行强制升级
    ```
    wget -O autospy https://gitee.com/xxsc/auo-spy/raw/master/docker.sh && chmod +x autospy && ./autospy
    ```
@@ -31,6 +31,10 @@
 4. 提示输入电话号码的时候，请在前面加上"+86"，如果不是中国的手机，那么就别用SPY了，没意思。
    TG的登录过程与人形一致，可以参考一些人形教程
 
+5. 登录完成后，提示授权信息正确情况时，请执行强制升级：
+   ```
+      cd auto_spy_data/autospy && bash <(curl -s -L https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/spy_update.sh)
+   ```
 
 
 
