@@ -22,7 +22,7 @@
 
 2.  进入终端，在你想要存储SPY信息的文件夹下运行一键安装，仅需打开一次，然后执行强制升级
    ```
-   wget -O autospy https://gitee.com/xxsc/auo-spy/raw/master/docker.sh && chmod +x autospy && ./autospy
+   wget -O autospy https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/docker.sh && chmod +x autospy && ./autospy
    ```
    第一次运行完成后，按提示修改配置文件，特别是TG和青龙的配置
 
