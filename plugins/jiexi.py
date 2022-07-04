@@ -85,7 +85,7 @@ async def jx(event):
     try:
         token = cfg['token']
         header = {"Authorization": "Bearer " + token}
-        res = requests.post("https://api1.windfgg.cf/jd/code", headers=header, json={"code": replytext}, timeout=20)
+        res = requests.post("https://api.windfgg.cf/jd/code", headers=header, json={"code": replytext}, timeout=20)
         data = res.json()
 
     except:
