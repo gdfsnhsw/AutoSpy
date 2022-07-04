@@ -25,7 +25,7 @@
         },
         {
             "Name": "\u7b7e\u5230\u8f6c\u7801",
-            "Version": 1656947175,
+            "Version": 1656947804,
             "Note": "\u6307\u4ee4[\u7b7e]\n\u56de\u590d\u63d0\u53d6\u7b7e\u5230\u4fe1\u606f",
             "Url": "https://github.com/xieshang/AutoSpy/raw/master/plugins/arm/qiandao.cpython-36m-aarch64-linux-gnu.so|https://github.com/xieshang/AutoSpy/raw/master/plugins/x86/qiandao.cpython-38-x86_64-linux-gnu.so|https://github.com/xieshang/AutoSpy/raw/master/plugins/x86_tx/qiandao.cpython-36m-x86_64-linux-gnu.so",
             "Path": "./plugins/arm|./plugins/x86|./plugins/x86_tx"
