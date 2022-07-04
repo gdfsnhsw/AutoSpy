@@ -13,9 +13,9 @@ rm auto_spy.so_aarch64*
 rm auto_spy.so_x86_64*
 rm auto_spy.so_x86_64_2*
 
-wget https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/auto_spy.so_aarch64
-wget https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/auto_spy.so_x86_64
-wget https://icanfamil.coding.net/p/autospy/d/autospy/git/raw/master/auto_spy.so_x86_64_2
+wget https://github.com/xieshang/AutoSpy/raw/master/auto_spy.so_aarch64
+wget https://github.com/xieshang/AutoSpy/raw/master/auto_spy.so_x86_64
+wget https://github.com/xieshang/AutoSpy/raw/master/auto_spy.so_x86_64_2
 
 echo "重启一下spy试试吧"
 
