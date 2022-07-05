@@ -1,4 +1,4 @@
-Version = 1656946943
+Version = 1656999628
 
 ## 京东口令解析
 import time
@@ -220,8 +220,11 @@ async def jx(event):
             elif "https://happy.m.jd.com/babelDiy/Zeus" in data:
                 id9 = data.split("index.html?asid=")[1]
                 await sendmsg_del(event.chat_id, f'锦鲤： `{id9}`')
-            
-            
+            if "wxUnPackingActivity" in data:
+                activityId = data.split('&')[0].split('activityId=')[1]
+                result = '## 让福袋飞∶' + '\n \n' + 'export jd_wxUnPackingActivity_activityId="' + str(
+                    activityId) + '"\n'
+                await sendmsg_del(event.chat_id, result)
             else:
                 await sendmsg_del(event.chat_id,'未检测到相关变量信息')
                 
