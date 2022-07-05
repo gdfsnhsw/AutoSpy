@@ -1,4 +1,4 @@
-Version = 1656999628
+Version = 1657001006
 
 ## 京东口令解析
 import time
@@ -217,7 +217,7 @@ async def jx(event):
                     # await event. sendmsg_deledit('未检测到相关变量信息')           
             
             # 锦鲤     测试：4G/ 【红包】你有一个红包待领取，最高888元，快来看看吧！倞美好风趣的蒜苗轻松温暖的护士諌 ，【𝒥𝓲𝓲𝓲𝓷𝓰ㅛ埬】
-            elif "https://happy.m.jd.com/babelDiy/Zeus" in data:
+            elif "https://happy.m.jd.com/babelDiy" in data:
                 id9 = data.split("index.html?asid=")[1]
                 await sendmsg_del(event.chat_id, f'锦鲤： `{id9}`')
             if "wxUnPackingActivity" in data:

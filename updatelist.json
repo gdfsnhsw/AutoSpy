@@ -11,7 +11,7 @@
     "plugins": [
         {
             "Name": "\u4eac\u4e1c\u89e3\u6790",
-            "Version": 1656999628,
+            "Version": 1657001006,
             "Note": "\u6307\u4ee4[jx]\n\u89e3\u6790\u4eac\u4e1c\u53e3\u4ee4\u548cUrl\uff0c\u56de\u590d\u5f85\u89e3\u6790\u5185\u5bb9\u5373\u53ef\uff0c\u89e3\u6790\u8bf7\u53ea\u88c5\u4e00\u4e2a",
             "Url": "https://github.com/xieshang/AutoSpy/raw/master/plugins/jiexi.py",
             "Path": "./plugins"
